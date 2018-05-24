@@ -1,1 +1,1 @@
-# flask-training
+FlaskApp
